@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/log4j-1.2.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.5.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sitemesh-2.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jstl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-log4j12-1.5.8.jar!/" />
+      <root url="jar:///usr/local/apache-tomcat-6.0.35/lib/servlet-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
